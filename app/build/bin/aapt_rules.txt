@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:42
+-keep class com.android.support.Launcher { <init>(...); }
+
+# view AndroidManifest.xml #generated:26
+-keep class com.android.support.MainActivity { <init>(...); }
+
